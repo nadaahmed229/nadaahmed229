@@ -12,30 +12,35 @@
 
 <br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" 
-     alt="Hello Coders" width="60%"/> 
-<br>
+<!-- Add your own GIF/image here later -->
+<!-- IMPORTANT: Do not use the old Somnath GIF -->
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" 
-     alt="Workspace" width="40%"/>
+<p align="center">
+  <img 
+    src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true"
+    alt="Hello Coders"
+    width="60%"
+  />
+</p>
+
 <br>
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
 - 🎓 I'm a **Computer Science & Artificial Intelligence Student**
 - 🤖 My main interest is **Artificial Intelligence**
 - 🧠 Currently studying **Deep Learning**
 - 📊 Learning and practicing **Data Analysis**
 - 💻 Exploring **Frontend Development**
-- 🌱 Interested in **Computer Vision & Machine Learning**
+- 👁️ Interested in **Computer Vision & Machine Learning**
 - 🚀 I enjoy building projects and learning new technologies
-- 🎯 Currently working on improving my AI and programming skills
+- 🎯 Currently improving my AI and programming skills
 
 ---
 
-### 🧠 Currently Learning
+## 🧠 Currently Learning
 
 - 🤖 Artificial Intelligence
 - 🧠 Deep Learning
@@ -51,8 +56,9 @@
 ### 👩‍💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### 🤖 AI & Machine Learning
 
@@ -85,11 +91,25 @@
 
 ---
 
+## 📌 Areas of Interest
+
+- 🤖 Artificial Intelligence
+- 🧠 Deep Learning
+- 📈 Machine Learning
+- 👁️ Computer Vision
+- 📊 Data Analysis
+- 🌐 Frontend Development
+
+---
+
+## 💻 About Me in Code
+
 ```python
 class AboutMe:
+
     name = "Nada Ahmed"
     field = "Artificial Intelligence"
-    
+
     interests = [
         "Artificial Intelligence",
         "Deep Learning",
@@ -107,14 +127,15 @@ class AboutMe:
 
     tools = [
         "Python",
-        "Pandas",
         "NumPy",
+        "Pandas",
         "Matplotlib",
         "Seaborn",
         "Scikit-learn",
         "TensorFlow",
         "Keras",
         "OpenCV",
+        "SQL",
         "Power BI",
         "HTML",
         "CSS",
@@ -122,5 +143,8 @@ class AboutMe:
         "JavaScript",
         "Git",
         "GitHub",
-        "VS Code"
+        "VS Code",
+        "Jupyter"
     ]
+
+    goal = "Build useful AI projects and keep learning 🚀"
