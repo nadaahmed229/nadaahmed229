@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Faculty+of+Computers+%26+Artificial+Intelligence;AI+%7C+Deep+Learning+Enthusiast;Turning+Data+into+Insights;Building+Clean+%26+Modern+UIs" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ### 🎓 About Me
@@ -18,7 +14,6 @@
 - 🌱 Currently sharpening my skills in AI model building & data-driven applications
 - 🤝 Open to collaborating on AI, Data Science, or Web projects
 - 💬 Ask me about: Deep Learning, Python, Data Analysis, or Frontend
-- 📫 Reach me: [Email](mailto:YOUR_EMAIL@example.com) | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | [Kaggle](https://kaggle.com/YOUR_KAGGLE) | [Portfolio](https://YOUR_PORTFOLIO_LINK)
 
 ---
 
@@ -53,41 +48,9 @@
 
 ### 🚀 Featured Projects
 
-- **[Project Name](https://github.com/YOUR_GITHUB_USERNAME/repo-name)** — وصف مختصر للمشروع (مثال: نموذج Deep Learning لتصنيف الصور بدقة X%).
-- **[Project Name](https://github.com/YOUR_GITHUB_USERNAME/repo-name)** — وصف مختصر لمشروع الـ Data Analysis (الأدوات والنتائج).
-- **[Project Name](https://github.com/YOUR_GITHUB_USERNAME/repo-name)** — وصف مختصر لمشروع الفرونت اند (لينك Live Demo لو موجود).
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://kaggle.com/YOUR_KAGGLE" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
+- **🧠 Image Classification with CNN** — نموذج Deep Learning لتصنيف الصور باستخدام Convolutional Neural Networks، بتدريب النموذج وتحسين الدقة عن طريق Data Augmentation و Transfer Learning.
+- **📊 Sales Data Analysis Dashboard** — تحليل بيانات مبيعات باستخدام Python و Pandas، مع استخراج insights وعرضها في Dashboard تفاعلي.
+- **💻 Portfolio Landing Page** — واجهة أمامية متجاوبة (Responsive) اتبنت بـ HTML, CSS, JavaScript، بتصميم Modern وتجربة استخدام سلسة.
 
 ---
 
