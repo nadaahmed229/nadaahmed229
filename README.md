@@ -54,4 +54,4 @@
 
 ---
 
-<p align="center"><i>Thanks for visiting my profile! ⭐ Feel free to explore my repositories.</i></p>
+<p align="center"><i>Thanks for visiting my profile!</i></p>
